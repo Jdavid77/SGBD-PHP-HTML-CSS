@@ -1,0 +1,72 @@
+
+body {
+background-color: lightblue;
+}
+
+.h3div{
+	color: black;
+	text-align: center;
+	text-shadow: 2px 2px red
+}
+
+.error{
+	color: red;
+}
+
+h3 {
+color: red;
+}
+p {
+font-family: verdana;
+font-size: 20px;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.mytable td {
+    border: 3px solid !important;
+    font-size: 15px  !important;
+	text-align: center !important;
+	background-color: #660000 !important;
+	color: white !important;
+	border-color: white !important;
+	
+}
+.mytable th{
+	
+	color: white !important;
+	background-color: #000100 !important;
+    border: 3px solid !important;
+	border-color: white !important;
+    font-size: 11px  !important;
+	text-align: center !important;
+	
+}
+
+.myinput input{
+    width: 100% !important;
+    padding: 12px 20px !important;
+    margin: 8px 0 !important;
+    box-sizing: border-box !important;
+    border: 2px solid red !important;
+    border-radius: 4px !important;
+}
+
+.mybody body{
+	
+	background-color: black !important;
+	
+	
+	
+}
+
+.text-black:hover{
+	color:#000 !important;
+}
+	
